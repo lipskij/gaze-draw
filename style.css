@@ -1,0 +1,27 @@
+button {
+  width: 100px;
+  padding: 1rem;
+  position: absolute;
+}
+
+.start {
+  top: 0;
+  right: 0;
+  left: 0;
+  padding: 1rem;
+}
+.pause {
+  top: 50px;
+  right: 0;
+  left: 0;
+}
+.continue {
+  top: 100px;
+  right: 0;
+  left: 0;
+}
+.clear {
+  top: 150px;
+  right: 0;
+  left: 0;
+}

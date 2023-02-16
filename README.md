@@ -1,0 +1,1 @@
+This is a project for fun using WebGazer.js to draw with the gaze.
